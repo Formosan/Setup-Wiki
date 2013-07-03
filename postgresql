@@ -76,3 +76,12 @@ Selecting rows from table in public schema
   FROM 
     public."myTable";
 
+
+Administration
+==============================
+Start database
+/etc/init.d/postgresql start
+
+Stop database
+/etc/init.d/postgresql stop
+
